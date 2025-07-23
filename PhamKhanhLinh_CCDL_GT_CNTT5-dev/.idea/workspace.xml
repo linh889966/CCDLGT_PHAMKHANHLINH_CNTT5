@@ -24,20 +24,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a2c7bf1-425e-4813-ad2f-1338a15e1e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session7.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Không được xác nhận 543110.crdownload.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss21/PTIT_CNTT5_IT201_Session1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss21/PTIT_CNTT5_IT201_Session2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss21/PTIT_CNTT5_IT201_Session3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss21/PTIT_CNTT5_IT201_Session4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss21/PTIT_CNTT5_IT201_Session5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PhamKhanhLinh_CCDL_GT_CNTT5-dev (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PhamKhanhLinh_CCDL_GT_CNTT5-dev (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss1/bai2.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss1/bai2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/PTIT_CNTT5_IT201_Session11_Bai04.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/PTIT_CNTT5_IT201_Session11_Bai04.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/PTIT_CNTT5_IT201_Session11_Bai10.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/PTIT_CNTT5_IT201_Session11_Bai10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12/PTIT_CNTT5_IT201_Session12_Bai01.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss12/PTIT_CNTT5_IT201_Session12_Bai01.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13/PTIT_CNTT5_IT201_Session13_Bai07.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/PTIT_CNTT5_IT201_Session13_Bai07.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13/PTIT_CNTT5_IT201_Session13_Bai08.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/PTIT_CNTT5_IT201_Session13_Bai08.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai01.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai01.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai02.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai02.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai03.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai03.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai05.c" beforeDir="false" afterPath="$PROJECT_DIR$/ss2/PTIT_CNTT5_IT201_Session02_Bai05.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +55,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "linh889966"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;linh889966&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/linh889966/PhamKhanhLinh_CCDL_GT_CNTT5.git",
-    "accountId": "9a9778eb-7376-45f4-ab14-e33687d35112"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/linh889966/CCDLGT_PHAMKHANHLINH_CNTT5.git&quot;,
+    &quot;accountId&quot;: &quot;9a9778eb-7376-45f4-ab14-e33687d35112&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session1.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session2.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session3.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session4.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ss15/PTIT_CNTT5_IT201_Session6.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -77,33 +91,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "dev",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LOQ/Desktop/PhamKhanhLinh_CCDL_GT_CNTT5-dev (2)/PhamKhanhLinh_CCDL_GT_CNTT5-dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="cautrucdulieuvagiaithuat" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cautrucdulieuvagiaithuat" TARGET_NAME="cautrucdulieuvagiaithuat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cautrucdulieuvagiaithuat" RUN_TARGET_NAME="cautrucdulieuvagiaithuat">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -118,6 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1752167977133</updated>
       <workItem from="1752167978625" duration="668000" />
+      <workItem from="1753255664827" duration="71000" />
+      <workItem from="1753257762974" duration="3217000" />
     </task>
     <servers />
   </component>

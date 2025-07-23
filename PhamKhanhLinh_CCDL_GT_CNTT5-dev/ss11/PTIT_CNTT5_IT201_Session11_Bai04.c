@@ -24,7 +24,7 @@ void append_node(struct NODE** head,int value) {
         current = current->next;
     }
     current->next = new_node;
-    new_node->prev = current;`
+    new_node->prev = current;
 }
 
 void print_list(struct NODE** head) {
